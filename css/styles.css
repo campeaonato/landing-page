@@ -2528,23 +2528,22 @@ fieldset:disabled a.btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #dc3545;
-    border-color: black;
+    background-color: #fed136;
+    border-color: #fed136;
 }
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #dc3545;
-    border-color: black;
+    background-color: #fec810;
+    border-color: #fec503;
     opacity: 40%;
 }
 
 .btn-primary:focus,
 .btn-primary.focus {
     color: #fff;
-    background-color: #dc3545;
-    border-color: black;
-    opacity: 40%;
+    background-color: #fec810;
+    border-color: #fec503;
     box-shadow: 0 0 0 0.2rem rgba(254, 216, 84, 0.5);
 }
 
